@@ -3,7 +3,7 @@ Backend Developer | Python | Django | Engineering Student passionate about build
 
 👋 Introduction: Peace Udotong == Ella
 
-✨ Community Lead of PyClub UNILAG 
+✨ Community Lead @ PyClub UNILAG 
   
 🎯 Goals/Interests: Backend Developer
 
@@ -16,5 +16,5 @@ Backend Developer | Python | Django | Engineering Student passionate about build
 🌱 Currently learning Django & APIs
 
 💬 Contacts:
-          LinkedIn:   https://www.linkedin.com/in/peaceudotong/
-          Email:      Udotongpeace@gmail.com
+					LinkedIn:   https://www.linkedin.com/in/peaceudotong/
+		 			Email:      Udotongpeace@gmail.com

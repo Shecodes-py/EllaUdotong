@@ -1,20 +1,20 @@
-# EllaUdotong
-Backend Developer | Python | Django | Engineering Student passionate about building scalable systems
+# EllaUdotong<br>
+Backend Developer | Python | Django | Engineering Student passionate about building scalable systems <br>
 
-👋 Introduction: Peace Udotong == Ella
+👋 Peace Udotong == Ella<br>
 
-✨ Community Lead @ PyClub UNILAG 
+✨ Community Lead @ PyClub UNILAG <br>
   
-🎯 Goals/Interests: Backend Developer
+🎯 Goals/Interests: Backend Developer<br>
 
-💻 Skills (Languages, frameworks, tools):
-          Python- Django/Flask/FastAPI  
-          Javascript- NodeJS
+💻 Skills (Languages, frameworks, tools):<br>
+          Python- Django/Flask/FastAPI  <br>
+          Javascript- NodeJS<br>
 
-🌍 Based in Lagos, Nigeria
+🌍 Based in Lagos, Nigeria<br>
 
-🌱 Currently learning Django & APIs
+🌱 Currently learning Django & APIs<br>
 
-💬 Contacts:
-					LinkedIn:   https://www.linkedin.com/in/peaceudotong/
+💬 Contacts: <br>
+					LinkedIn:   https://www.linkedin.com/in/peaceudotong/ <br>
 		 			Email:      Udotongpeace@gmail.com
